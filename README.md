@@ -61,4 +61,4 @@ Kalau mau **lebih ampuh**, kombinasikan:
 * **Tidak menyentuh kode iklan AdSense** (ini WAJIB agar akun aman)
 
 ---
-**Jika bermanfaat boleh sawerannya ke Seabank :**
+**Jika bermanfaat boleh sawerannya ke Seabank : 901-563-488-775**
