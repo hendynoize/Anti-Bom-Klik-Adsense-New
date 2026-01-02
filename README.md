@@ -16,7 +16,7 @@ Script ini:
 ### 📌 Pasang di `<head>` atau sebelum `</body>`
 
 ```html
-<script src="" </script>
+<script src="https://raw.githubusercontent.com/hendynoize/JavaScript-Anti-Bom-Klik-New/refs/heads/main/abkan.js"> </script>
 ```
 
 ---
@@ -58,3 +58,4 @@ Kalau mau **lebih ampuh**, kombinasikan:
 * **Tidak menyentuh kode iklan AdSense** (ini WAJIB agar akun aman)
 
 ---
+**Jika bermanfaat boleh sawerannya ke Seabank :**
