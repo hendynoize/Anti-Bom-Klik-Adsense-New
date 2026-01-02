@@ -1,5 +1,8 @@
-## ✅ JavaScript Anti Bom Klik New (Aman untuk AdSense)
+## ✅ Script Anti Bom Klik Adsense New (Aman untuk AdSense)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hendynoize/Anti-Bom-Klik-Adsense-New/refs/heads/main/Anti-Bom-Klik-Adsense-New.png" alt="Anti Bom Klik Adsense">
+</p>
 
 ## 🎯 Strategi yang Dipakai
 
